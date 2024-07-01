@@ -1,0 +1,12 @@
+{
+  "name": "tcp-file-upload-download",
+  "version": "1.0.0",
+  "description": "A simple Node.js application to demonstrate TCP-based file upload and download. This project showcases the use of TCP sockets, streams, and buffers to efficiently transfer files between a client and a server.",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Prashant Jha",
+  "license": "ISC"
+}

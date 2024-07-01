@@ -19,7 +19,7 @@ A simple Node.js application to demonstrate TCP-based file upload and download. 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/nodejs-tcp-file-transfer.git
+    git clone https://github.com/Vatspra/tcp-file-uploader.git
     cd nodejs-tcp-file-transfer
     ```
 
